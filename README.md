@@ -1,20 +1,22 @@
 ## LICENSE
-Please don't sell or reupload this resource
+Veuillez ne pas vendre ou télécharger à nouveau cette ressource
 
 ## INSTALLATION
-Drag and drop. 
-You also need to have <a href="https://github.com/ESX-Org/es_extended">es_extended</a> and <a href="https://github.com/ESX-Org/esx_license">esx_license</a> installed.
+Glisser déposer.
+Vous devez également avoir <a href="https://github.com/ESX-Org/es_extended"> es_extended </a> et <a href = "https://github.com/ESX-Org/esx_license" > esx_license </a> installé.
 
-You need to add a couple rows of code depending on how you want to use the ID. Please check the **Usage** down below.
+Vous devez ajouter quelques lignes de code en fonction de la manière dont vous souhaitez utiliser l'ID. Veuillez vérifier la ** Utilisation ** ci-dessous.
 
 
-## SCREENSHOTS
+## Video
+https://www.youtube.com/watch?v=F9jze_-hTXY
 
-Example on how to add a button-event since people don't want to learn:
+
+Exemple sur la façon d'ajouter un événement de bouton :
 https://pastebin.com/UPQRcAei
 
 ```
--- ### Event usages:
+-- ### Utilisation:
 
 -- Look at your own ID-card
 TriggerServerEvent('jsfour-idcard:open', GetPlayerServerId(PlayerId()), GetPlayerServerId(PlayerId()))
