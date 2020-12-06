@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/436197783331012629.svg)](https://discord.gg/puEzjM8)
+
 ## LICENSE
 Veuillez ne pas vendre ou télécharger à nouveau cette ressource
 
