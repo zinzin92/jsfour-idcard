@@ -1,6 +1,7 @@
-# Discord
+# © Aide FiveM | Discord : https://discord.gg/puEzjM8
 
 [![Discord](https://img.shields.io/discord/729256474471170089.svg)](https://discord.gg/puEzjM8)
+
 
 ## LICENSE
 Veuillez ne pas vendre ou télécharger à nouveau cette ressource
